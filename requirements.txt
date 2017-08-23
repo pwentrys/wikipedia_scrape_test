@@ -1,0 +1,8 @@
+autopep8
+flask
+flask-cors
+numpy
+psutil
+pyodbc
+requests
+setuptools>=36.2.0
