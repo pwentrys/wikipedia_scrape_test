@@ -6,3 +6,5 @@ psutil
 pyodbc
 requests
 setuptools>=36.2.0
+beautifulsoup4
+lxml
